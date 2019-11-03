@@ -48,3 +48,5 @@ for (i; i < 20371; i++) {
     
     WebUI.clearText(findTestObject('Object Repository/Elements/sicilNo'))
 }
+
+WebUI.closeBrowser()
