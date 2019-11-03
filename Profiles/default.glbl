@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>0</initValue>
+      <initValue>''</initValue>
       <name>sicilNo</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
