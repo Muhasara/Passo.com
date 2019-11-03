@@ -13,7 +13,7 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('Elements/cokieClose'))
 
-WebUI.delay(2)
+WebUI.delay(3)
 
 WebUI.click(findTestObject('Elements/popupClose'))
 
