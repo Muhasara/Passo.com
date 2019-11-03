@@ -6,12 +6,12 @@
    <elementGuidId>7a6ae303-e7a6-440e-b416-4a5a0e06f6e6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@id = 'skip_fullpage']</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='skip_fullpage']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;skip_fullpage&quot;)</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -24,7 +24,7 @@
       <value>div</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -45,7 +45,7 @@
       <value>Reklamı Geç</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
